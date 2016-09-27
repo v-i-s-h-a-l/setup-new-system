@@ -3,11 +3,9 @@ a list of todos when setting up a new system
 
 **User Account**
 name: v-i-s-h-a-l
-password: changeit
 
 **Non developer**
 view hidden files on mac (http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
-
 
 **Terminal**
 
@@ -23,3 +21,8 @@ cocoapods
   `git config --global user.name v-i-s-h-a-l`
   `git config --global user.email vishalsingh2706@gmail.com`
   git extras (https://github.com/tj/git-extras)
+
+**Xcode**
+  ibeam cursor `https://github.com/egold/better-xcode-ibeam-cursor`
+  package manager `https://github.com/alcatraz/Alcatraz`
+  
