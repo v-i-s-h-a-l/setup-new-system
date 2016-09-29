@@ -12,10 +12,11 @@ view hidden files on mac (http://ianlunn.co.uk/articles/quickly-showhide-hidden-
 ***Oh My Zsh***
 https://github.com/robbyrussell/oh-my-zsh.git
 
-wget 
-homebrew
-rbenv (https://github.com/rbenv/rbenv)
-cocoapods
+wget, 
+homebrew,
+rbenv (https://github.com/rbenv/rbenv),
+cocoapods,
+postman
 
 **Git**
   `git config --global user.name v-i-s-h-a-l`
