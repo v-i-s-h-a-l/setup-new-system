@@ -22,7 +22,7 @@ postman
   `git config --global user.name v-i-s-h-a-l`
   `git config --global user.email vishalsingh2706@gmail.com`
   git extras (https://github.com/tj/git-extras)
-  p4mergetool
+  p4mergetool (https://gist.github.com/tony4d/3454372)
 
 **Xcode**
   ibeam cursor `https://github.com/egold/better-xcode-ibeam-cursor`
